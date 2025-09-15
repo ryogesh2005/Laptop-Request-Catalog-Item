@@ -1,1 +1,7 @@
-# Laptop-Request-Catalog-Item
+Project Name: Laptop Request Catalog Item
+Team ID : NM2025TMID13889
+Team Size : 4
+Team Leader : YOGESH R
+Team Member : GOKUKL G
+Team Member : MADHU SUDHANAN M
+Team Member : PERARUSU K
